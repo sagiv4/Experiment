@@ -1,6 +1,4 @@
-
-
-## What I Expect to Get Out of This Course
+# What I Expect to Get Out of This Course
 
 - Gain a deeper understanding of the Linux operating system.
 - Learn advanced command-line techniques and tools.
@@ -59,4 +57,3 @@
 - Setting up and managing virtual machines and containers.
 
 This course presents an exciting opportunity to further my expertise in Linux systems and become a more proficient Linux administrator. I'm eager to tackle challenging tasks, collaborate with peers, and leverage the advanced skills gained to excel in my IT journey.
-
